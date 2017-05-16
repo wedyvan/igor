@@ -1,0 +1,7 @@
+@import url(https://dl.dropboxusercontent.com/s/pe42l8ujxerwh4z/anime.css);
+@import "https://dl.dropboxusercontent.com/s/uaeavnoe2z2ox4w/halloween2016.css";
+
+
+#copyright:after{
+content: "Visit https://myanimelist.net/forum/?topicid=443333 to repair missing preview pics." !important;
+}
