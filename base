@@ -1,5 +1,5 @@
-@import url(https://cdn.rawgit.com/wedyvan/igor/master/anime.css);
-@import "https://cdn.rawgit.com/wedyvan/igor/master/halloween2016.css";
+@import url(https://dl.dropboxusercontent.com/s/410r9pb2291jep4/anime.css);
+@import "https://dl.dropboxusercontent.com/s/d3ytxqa2u3b1ydc/halloween2016.css";
 
 
 #copyright:after{
